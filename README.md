@@ -1,6 +1,6 @@
 # Password Reset Flow
 
-# password reset flow for a web application using React for the frontend and Node.js for the backend. Users can request a password reset via email, and if they are valid users, they will receive a link to reset their password.
+password reset flow for a web application using React for the frontend and Node.js for the backend. Users can request a password reset via email, and if they are valid users, they will receive a link to reset their password.
 
 # Features
 
