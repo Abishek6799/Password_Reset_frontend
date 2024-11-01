@@ -1,8 +1,17 @@
-# React + Vite
+# Password Reset Flow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# password reset flow for a web application using React for the frontend and Node.js for the backend. Users can request a password reset via email, and if they are valid users, they will receive a link to reset their password.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User can request a password reset link via email.
+- Secure token generation for password reset links.
+- User-friendly UI.
+- Responsive design for all devices.
+
+# Technologies Used
+
+- Frontend: React,Tailwind, Axios, React Router, React Icons
+- Backend: Node.js, Express, Mongoose, Nodemailer, Bcrypt, JSON Web Token
+- Database: MongoDB
+- Deployment: Render (for backend), Netlify (for frontend)
